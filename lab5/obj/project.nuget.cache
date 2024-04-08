@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QgcLm/zTfuRZXFe3YmDGO2uz5tsZh+j1J7mOARkpt98eob4/IhBGeyuvphom8H0rc/XjN2pnN2Ztlr+UpKT/Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kapa\\source\\repos\\lab5\\lab5\\lab5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kapa\\.nuget\\packages\\alglib.net\\3.19.0\\alglib.net.3.19.0.nupkg.sha512"
+  ],
+  "logs": []
+}
