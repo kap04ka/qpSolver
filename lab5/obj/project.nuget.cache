@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "QgcLm/zTfuRZXFe3YmDGO2uz5tsZh+j1J7mOARkpt98eob4/IhBGeyuvphom8H0rc/XjN2pnN2Ztlr+UpKT/Ug==",
+  "dgSpecHash": "8eyp/6ryDcH906hcTAaqU4Q0+yTqbTfGUoTR0tm/7wWxHMcr0CscU9q88WfRylwX/PlSobf0DbzPom6n/LPVCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kapa\\source\\repos\\lab5\\lab5\\lab5.csproj",
+  "projectFilePath": "C:\\Users\\Daniil\\source\\repos\\qpSolver\\lab5\\lab5.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Kapa\\.nuget\\packages\\alglib.net\\3.19.0\\alglib.net.3.19.0.nupkg.sha512"
+    "C:\\Users\\Daniil\\.nuget\\packages\\alglib.net\\3.19.0\\alglib.net.3.19.0.nupkg.sha512",
+    "C:\\Users\\Daniil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Daniil\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Daniil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Daniil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
   ],
   "logs": []
 }

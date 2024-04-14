@@ -26,13 +26,15 @@ namespace lab5
         // Верхняя граница
         public double[] ub { get; set; }
 
+        // Количество итераций
+        public int iterCount { get; set; }
 
         public InputData()
         {
 
         }
 
-        public InputData(double[,] _Ab,  double[] _x0, double[] _errors, byte[] _I, double[] _lb, double[] _ub)
+        public InputData(double[,] _Ab,  double[] _x0, double[] _errors, byte[] _I, double[] _lb, double[] _ub, int _iterCount)
         {
             Ab = _Ab;
             x0 = _x0;
@@ -40,6 +42,7 @@ namespace lab5
             I = _I;
             lb = _lb;
             ub = _ub;
+            iterCount = _iterCount;
         }
     }
 }
